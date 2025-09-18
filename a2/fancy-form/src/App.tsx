@@ -145,8 +145,8 @@ export default function SimpleCurrencyConverter() {
   return (
     <div className="container">
       <div className="header">
-        <h1>💱 Currency Converter</h1>
-        <p>Simple converter with session storage</p>
+        <h1>Crypto Converter</h1>
+        
       </div>
 
       <div className="converter-card">
